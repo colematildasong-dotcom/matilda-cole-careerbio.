@@ -1,0 +1,270 @@
+[matilda-cole-careerbio (1).html](https://github.com/user-attachments/files/21908842/matilda-cole-careerbio.1.html)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Matilda (Song) Cole – CareerBIO</title>
+  <meta name="description" content="Executive Resume Writer & Career Strategist – Matilda (Song) Cole, CERM, CPRW. Success stories, testimonials, services & pricing." />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    html { scroll-behavior: smooth; }
+  </style>
+</head>
+<body class="bg-neutral-50 text-neutral-900">
+  <!-- Header -->
+  <header class="sticky top-0 z-40 backdrop-blur bg-white/80 border-b">
+    <div class="mx-auto max-w-6xl px-4 py-3 flex items-center justify-between">
+      <a href="#top" class="flex items-center gap-3">
+        <div class="h-10 w-10 rounded-2xl bg-neutral-900 text-white grid place-items-center font-bold">MC</div>
+        <div class="leading-tight">
+          <div class="font-bold">Matilda (Song) Cole</div>
+          <div class="text-xs text-neutral-600">CERM, CPRW • She/Her</div>
+        </div>
+      </a>
+      <nav class="hidden md:flex items-center gap-6 text-sm">
+        <a href="#how" class="hover:text-neutral-600">How I Work</a>
+        <a href="#success" class="hover:text-neutral-600">Success Stories</a>
+        <a href="#testimonials" class="hover:text-neutral-600">Testimonials</a>
+        <a href="#pricing" class="hover:text-neutral-600">Pricing</a>
+        <a href="#contact" class="hover:text-neutral-600">Contact</a>
+        <a href="mailto:colematildasong@gmail.com?subject=Book%20intro%20consult&body=Hi%20Matilda%2C%0A%0AI%27d%20like%20to%20book%20a%2020%E2%80%9330%20minute%20intro%20call%20to%20discuss%20my%20goals." class="inline-flex items-center rounded-xl px-4 py-2 bg-neutral-900 text-white font-semibold hover:bg-neutral-800">Book a consult</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero -->
+  <main id="top" class="mx-auto max-w-6xl px-4 py-14 md:py-20">
+    <div class="grid md:grid-cols-2 gap-8 items-center">
+      <div>
+        <h1 class="text-3xl md:text-5xl font-extrabold tracking-tight">Executive Resume Writer & Career Strategist</h1>
+        <p class="mt-4 text-neutral-700 leading-relaxed">
+          I craft high-impact, modern, ATS-ready resumes and LinkedIn profiles for board, C-suite,
+          and senior leaders—and coach you through job search, interviews, and negotiations.
+          Former Executive Headhunter & HR Exec (SPHR). LinkedIn Certified (LCPR).
+        </p>
+        <div class="mt-6 flex flex-wrap gap-3">
+          <a href="mailto:colematildasong@gmail.com?subject=Inquiry%20%E2%80%93%20Resume%20%26%20LinkedIn&body=Hi%20Matilda%2C%20I%27d%20like%20help%20with%20my%20resume%20and%20LinkedIn.%20My%20target%20role%2Findustry%20is%E2%80%A6" class="inline-flex items-center rounded-xl px-5 py-3 bg-neutral-900 text-white font-semibold hover:bg-neutral-800">Work with me</a>
+          <a href="#pricing" class="inline-flex items-center rounded-xl px-5 py-3 border font-semibold hover:bg-neutral-50">View pricing</a>
+        </div>
+        <div class="mt-6 flex flex-wrap items-center gap-2 text-xs text-neutral-600">
+          <span class="px-2 py-1 rounded-full border">CERM</span>
+          <span class="px-2 py-1 rounded-full border">CPRW</span>
+          <span class="px-2 py-1 rounded-full border">LCPR</span>
+          <span class="px-2 py-1 rounded-full border">SPHR (exp.)</span>
+          <span class="px-2 py-1 rounded-full border">IAML Employment Law</span>
+        </div>
+      </div>
+      <div class="md:pl-8">
+        <div class="relative">
+          <div class="absolute -inset-1 rounded-3xl bg-gradient-to-r from-neutral-200 to-neutral-100 blur" aria-hidden></div>
+          <div class="relative rounded-3xl border bg-white p-6 shadow-sm">
+            <div class="flex items-center gap-4">
+              <div class="h-16 w-16 rounded-2xl bg-neutral-900 text-white grid place-items-center text-xl font-bold">MC</div>
+              <div>
+                <div class="font-semibold">Matilda (Song) Cole</div>
+                <div class="text-xs text-neutral-600">CEO &amp; Founder, CareerBIO • Denver Metro • She/Her</div>
+              </div>
+            </div>
+            <hr class="my-4" />
+            <p class="text-sm text-neutral-700 leading-relaxed">
+              Ex: Disney/ABC/ESPN Internet • Examiner.com/AXS • 20+ years helping executives
+              win interviews and offers. Career industry expert with background across HR, TA,
+              and executive search.
+            </p>
+            <div class="mt-4 text-sm">
+              <a href="#success" class="underline">See success metrics</a> · 
+              <a href="#testimonials" class="underline">Read client comments</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- How I Work -->
+  <section id="how" class="bg-neutral-50 border-y">
+    <div class="mx-auto max-w-6xl px-4 py-14 md:py-20">
+      <h2 class="text-2xl md:text-3xl font-extrabold">How I Work</h2>
+      <p class="mt-3 text-neutral-700 max-w-3xl">
+        A proven, collaborative process tailored to senior leaders. Strategy first, then crisp storytelling and design.
+      </p>
+      <div class="mt-8 grid md:grid-cols-3 gap-6">
+        <div class="rounded-2xl bg-white border p-6 shadow-sm">
+          <h3 class="font-semibold text-lg">Discovery &amp; Targeting</h3>
+          <p class="mt-2 text-sm text-neutral-700">Deep-dive consult to clarify goals, target roles/industries, and success metrics. We align on brand and positioning.</p>
+        </div>
+        <div class="rounded-2xl bg-white border p-6 shadow-sm">
+          <h3 class="font-semibold text-lg">Strategy &amp; Drafting</h3>
+          <p class="mt-2 text-sm text-neutral-700">Bulletproof value narrative crafted with measurable wins. ATS-aligned formatting plus recruiter-friendly flow.</p>
+        </div>
+        <div class="rounded-2xl bg-white border p-6 shadow-sm">
+          <h3 class="font-semibold text-lg">Refinement &amp; Launch</h3>
+          <p class="mt-2 text-sm text-neutral-700">Collaborative revisions, LinkedIn optimization, and job-search playbook. Interview prep and negotiation coaching available.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Success Stories -->
+  <section id="success" class="mx-auto max-w-6xl px-4 py-14 md:py-20">
+    <h2 class="text-2xl md:text-3xl font-extrabold">Success Stories</h2>
+    <p class="mt-3 text-neutral-700 max-w-3xl">A snapshot of client outcomes and the kinds of transitions I support.</p>
+    <div class="mt-8 grid sm:grid-cols-2 md:grid-cols-4 gap-4">
+      <div class="rounded-2xl bg-white/70 backdrop-blur shadow-sm border p-6 text-center">
+        <div class="text-3xl md:text-4xl font-extrabold">92%</div>
+        <div class="text-sm text-neutral-600 mt-1">Interview rate within 6–8 weeks</div>
+      </div>
+      <div class="rounded-2xl bg-white/70 backdrop-blur shadow-sm border p-6 text-center">
+        <div class="text-3xl md:text-4xl font-extrabold">$50k+</div>
+        <div class="text-sm text-neutral-600 mt-1">Avg. comp uplift for exec transitions</div>
+      </div>
+      <div class="rounded-2xl bg-white/70 backdrop-blur shadow-sm border p-6 text-center">
+        <div class="text-3xl md:text-4xl font-extrabold">2–4x</div>
+        <div class="text-sm text-neutral-600 mt-1">InMail response vs. baseline</div>
+      </div>
+      <div class="rounded-2xl bg-white/70 backdrop-blur shadow-sm border p-6 text-center">
+        <div class="text-3xl md:text-4xl font-extrabold">1000+</div>
+        <div class="text-sm text-neutral-600 mt-1">Leaders coached &amp; placed</div>
+      </div>
+    </div>
+    <div class="mt-10 grid md:grid-cols-3 gap-6">
+      <div class="rounded-2xl bg-white border p-6 shadow-sm">
+        <div class="text-sm font-semibold text-neutral-500">Case Study</div>
+        <h3 class="mt-1 font-semibold">Startup COO → Public Co. SVP</h3>
+        <p class="mt-2 text-sm text-neutral-700">Reframed scope and P&amp;L impact; delivered board-ready resume. Landed SVP Ops at public tech firm with 38% comp increase.</p>
+      </div>
+      <div class="rounded-2xl bg-white border p-6 shadow-sm">
+        <div class="text-sm font-semibold text-neutral-500">Case Study</div>
+        <h3 class="mt-1 font-semibold">PE Portfolio CFO Pivot</h3>
+        <p class="mt-2 text-sm text-neutral-700">Storylined turnaround wins and debt refinancing. Secured CFO role in new fund with performance equity.</p>
+      </div>
+      <div class="rounded-2xl bg-white border p-6 shadow-sm">
+        <div class="text-sm font-semibold text-neutral-500">Case Study</div>
+        <h3 class="mt-1 font-semibold">Director → VP in Healthcare</h3>
+        <p class="mt-2 text-sm text-neutral-700">Emphasized multi-site growth and regulatory leadership. Promoted to VP within 90 days of search launch.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Testimonials -->
+  <section id="testimonials" class="bg-neutral-50 border-y">
+    <div class="mx-auto max-w-6xl px-4 py-14 md:py-20">
+      <h2 class="text-2xl md:text-3xl font-extrabold">What Clients Say</h2>
+      <p class="mt-3 text-neutral-700 max-w-3xl">Real notes and comments from executives I've supported.</p>
+      <div class="mt-8 grid md:grid-cols-3 gap-6">
+        <figure class="rounded-2xl bg-white shadow-sm border p-6">
+          <blockquote class="text-neutral-800 leading-relaxed">“Your resume opened doors at three target companies within two weeks. The narrative felt like me—just sharper.”</blockquote>
+          <figcaption class="mt-4 text-sm text-neutral-600"><span class="font-semibold text-neutral-800">A.B.</span> — Chief Product Officer, SaaS</figcaption>
+        </figure>
+        <figure class="rounded-2xl bg-white shadow-sm border p-6">
+          <blockquote class="text-neutral-800 leading-relaxed">“Interview prep was a game-changer. I negotiated a package I wouldn't have pursued on my own.”</blockquote>
+          <figcaption class="mt-4 text-sm text-neutral-600"><span class="font-semibold text-neutral-800">J.K.</span> — VP Finance, Private Equity portfolio</figcaption>
+        </figure>
+        <figure class="rounded-2xl bg-white shadow-sm border p-6">
+          <blockquote class="text-neutral-800 leading-relaxed">“The LinkedIn optimization doubled recruiter outreach. Landed a role at my #1 target.”</blockquote>
+          <figcaption class="mt-4 text-sm text-neutral-600"><span class="font-semibold text-neutral-800">L.R.</span> — SVP Operations, Healthcare</figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <!-- Pricing -->
+  <section id="pricing" class="mx-auto max-w-6xl px-4 py-14 md:py-20">
+    <h2 class="text-2xl md:text-3xl font-extrabold">Services &amp; Pricing</h2>
+    <p class="mt-3 text-neutral-700 max-w-3xl">Transparent pricing with room to customize. Click “Negotiate price” to email me and tailor a package.</p>
+    <div class="mt-8 grid md:grid-cols-4 gap-6">
+      <!-- Entry Level -->
+      <div class="relative rounded-2xl border shadow-sm p-6 flex flex-col gap-4 bg-white">
+        <h3 class="text-lg font-semibold">Entry Level</h3>
+        <div class="text-4xl font-extrabold">$200</div>
+        <ul class="text-sm text-neutral-700 space-y-2">
+          <li class="flex items-start gap-2"><span class="mt-1 inline-block h-2 w-2 rounded-full bg-neutral-800"></span>Modern ATS-friendly resume</li>
+          <li class="flex items-start gap-2"><span class="mt-1 inline-block h-2 w-2 rounded-full bg-neutral-800"></span>1 revision within 7 days</li>
+          <li class="flex items-start gap-2"><span class="mt-1 inline-block h-2 w-2 rounded-full bg-neutral-800"></span>Basic LinkedIn headline &amp; summary</li>
+        </ul>
+        <a href="mailto:colematildasong@gmail.com?subject=Negotiation%20request%20%E2%80%93%20Entry%20Level&body=Hi%20Matilda%2C%0A%0AI%27d%20like%20to%20discuss%20the%20Entry%20Level%20package%20%28200%20USD%29.%20My%20goals%20and%20timeline%20are%3A%0A" class="mt-4 inline-flex items-center justify-center rounded-xl px-4 py-2 text-sm font-semibold bg-neutral-900 text-white hover:bg-neutral-800">Negotiate price</a>
+      </div>
+      <!-- Mid Level -->
+      <div class="relative rounded-2xl border shadow-sm p-6 flex flex-col gap-4 bg-white">
+        <h3 class="text-lg font-semibold">Mid Level</h3>
+        <div class="text-4xl font-extrabold">$400</div>
+        <ul class="text-sm text-neutral-700 space-y-2">
+          <li class="flex items-start gap-2"><span class="mt-1 inline-block h-2 w-2 rounded-full bg-neutral-800"></span>Strategy call + resume</li>
+          <li class="flex items-start gap-2"><span class="mt-1 inline-block h-2 w-2 rounded-full bg-neutral-800"></span>2 revisions within 14 days</li>
+          <li class="flex items-start gap-2"><span class="mt-1 inline-block h-2 w-2 rounded-full bg-neutral-800"></span>LinkedIn profile optimization</li>
+        </ul>
+        <a href="mailto:colematildasong@gmail.com?subject=Negotiation%20request%20%E2%80%93%20Mid%20Level&body=Hi%20Matilda%2C%0A%0AI%27d%20like%20to%20discuss%20the%20Mid%20Level%20package%20%28400%20USD%29.%20My%20goals%20and%20timeline%20are%3A%0A" class="mt-4 inline-flex items-center justify-center rounded-xl px-4 py-2 text-sm font-semibold bg-neutral-900 text-white hover:bg-neutral-800">Negotiate price</a>
+      </div>
+      <!-- Senior Level -->
+      <div class="relative rounded-2xl border shadow-sm p-6 flex flex-col gap-4 bg-white ring-2 ring-indigo-600">
+        <span class="absolute -top-3 left-1/2 -translate-x-1/2 text-xs px-2 py-1 rounded-full bg-indigo-600 text-white shadow">Most Popular</span>
+        <h3 class="text-lg font-semibold">Senior Level</h3>
+        <div class="text-4xl font-extrabold">$600</div>
+        <ul class="text-sm text-neutral-700 space-y-2">
+          <li class="flex items-start gap-2"><span class="mt-1 inline-block h-2 w-2 rounded-full bg-neutral-800"></span>Executive-style resume</li>
+          <li class="flex items-start gap-2"><span class="mt-1 inline-block h-2 w-2 rounded-full bg-neutral-800"></span>Cover letter or value narrative</li>
+          <li class="flex items-start gap-2"><span class="mt-1 inline-block h-2 w-2 rounded-full bg-neutral-800"></span>LinkedIn optimization + job-search tips</li>
+        </ul>
+        <a href="mailto:colematildasong@gmail.com?subject=Negotiation%20request%20%E2%80%93%20Senior%20Level&body=Hi%20Matilda%2C%0A%0AI%27d%20like%20to%20discuss%20the%20Senior%20Level%20package%20%28600%20USD%29.%20My%20goals%20and%20timeline%20are%3A%0A" class="mt-4 inline-flex items-center justify-center rounded-xl px-4 py-2 text-sm font-semibold bg-neutral-900 text-white hover:bg-neutral-800">Negotiate price</a>
+      </div>
+      <!-- Executive Level -->
+      <div class="relative rounded-2xl border shadow-sm p-6 flex flex-col gap-4 bg-white">
+        <h3 class="text-lg font-semibold">Executive Level</h3>
+        <div class="text-4xl font-extrabold">$800</div>
+        <ul class="text-sm text-neutral-700 space-y-2">
+          <li class="flex items-start gap-2"><span class="mt-1 inline-block h-2 w-2 rounded-full bg-neutral-800"></span>C-suite / Board resume (CERM standards)</li>
+          <li class="flex items-start gap-2"><span class="mt-1 inline-block h-2 w-2 rounded-full bg-neutral-800"></span>LinkedIn + executive bio</li>
+          <li class="flex items-start gap-2"><span class="mt-1 inline-block h-2 w-2 rounded-full bg-neutral-800"></span>Interview &amp; negotiation coaching (1 session)</li>
+        </ul>
+        <a href="mailto:colematildasong@gmail.com?subject=Negotiation%20request%20%E2%80%93%20Executive%20Level&body=Hi%20Matilda%2C%0A%0AI%27d%20like%20to%20discuss%20the%20Executive%20Level%20package%20%28800%20USD%29.%20My%20goals%20and%20timeline%20are%3A%0A" class="mt-4 inline-flex items-center justify-center rounded-xl px-4 py-2 text-sm font-semibold bg-neutral-900 text-white hover:bg-neutral-800">Negotiate price</a>
+      </div>
+    </div>
+    <div class="mt-8 text-sm text-neutral-600">
+      Need something unique (board dossier, portfolio, outplacement, recruiting support)? 
+      <a class="underline" href="mailto:colematildasong@gmail.com?subject=Custom%20engagement%20request&body=Hi%20Matilda%2C%20I%27d%20like%20a%20custom%20package%20for%20%E2%80%A6">Email me for a custom quote</a>.
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section id="contact" class="mx-auto max-w-6xl px-4 py-14 md:py-20">
+    <div class="grid md:grid-cols-2 gap-8 items-start">
+      <div>
+        <h2 class="text-2xl md:text-3xl font-extrabold">Let’s Connect</h2>
+        <p class="mt-3 text-neutral-700">Ready to elevate your executive brand? Send me a note with your goals, target roles, and timeline. I’ll reply with next steps and options.</p>
+        <div class="mt-6 flex flex-col gap-3 text-sm">
+          <a href="mailto:colematildasong@gmail.com?subject=General%20inquiry&body=Hi%20Matilda%2C%20%E2%80%A6" class="underline">colematildasong@gmail.com</a>
+          <a href="mailto:colematildasong@gmail.com?subject=Negotiation%20request&body=Hi%20Matilda%2C%20I%27d%20like%20to%20negotiate%20pricing%20for%20%E2%80%A6" class="underline">Negotiate pricing by email</a>
+        </div>
+      </div>
+      <div class="rounded-2xl border bg-white p-6 shadow-sm">
+        <h3 class="font-semibold">Quick Email Composer</h3>
+        <p class="mt-2 text-sm text-neutral-700">Prefill an email to me with one click.</p>
+        <div class="mt-4 grid gap-3 sm:grid-cols-2">
+          <a href="mailto:colematildasong@gmail.com?subject=Resume%20%2B%20LinkedIn&body=Hi%20Matilda%2C%20I%27m%20targeting%20%E2%80%A6%20and%20need%20resume%20%2B%20LinkedIn%20help." class="rounded-xl border px-4 py-3 text-sm font-semibold hover:bg-neutral-50">Resume + LinkedIn</a>
+          <a href="mailto:colematildasong@gmail.com?subject=Executive%20package&body=Hi%20Matilda%2C%20I%27d%20like%20the%20Executive%20package%20and%20have%20these%20questions%3A%20%E2%80%A6" class="rounded-xl border px-4 py-3 text-sm font-semibold hover:bg-neutral-50">Executive package</a>
+          <a href="mailto:colematildasong@gmail.com?subject=Interview%20coaching&body=Hi%20Matilda%2C%20I%20have%20interviews%20coming%20up%20and%20want%20coaching%20on%20%E2%80%A6" class="rounded-xl border px-4 py-3 text-sm font-semibold hover:bg-neutral-50">Interview coaching</a>
+          <a href="mailto:colematildasong@gmail.com?subject=Custom%20engagement&body=Hi%20Matilda%2C%20I%27m%20looking%20for%20a%20custom%20scope%20involving%20%E2%80%A6" class="rounded-xl border px-4 py-3 text-sm font-semibold hover:bg-neutral-50">Custom engagement</a>
+        </div>
+        <p class="mt-4 text-xs text-neutral-500">Clicking a button opens your email client with a prefilled message to <span class="font-semibold">colematildasong@gmail.com</span>.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="border-t">
+    <div class="mx-auto max-w-6xl px-4 py-8 text-sm text-neutral-600 flex flex-col md:flex-row gap-2 items-center justify-between">
+      <div>© <span id="year"></span> CareerBIO — Matilda (Song) Cole • All rights reserved.</div>
+      <div class="flex items-center gap-4">
+        <a href="#pricing" class="underline">Pricing</a>
+        <a href="#testimonials" class="underline">Client comments</a>
+        <a href="mailto:colematildasong@gmail.com?subject=Media%20%2F%20Speaking&body=Hi%20Matilda%2C%20I%27m%20inquiring%20about%20media%2Fspeaking%20%E2%80%A6" class="underline">Media / Speaking</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
